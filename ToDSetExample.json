@@ -16,5 +16,6 @@
         "Eat <range[1-10]> goldfish.",
         "Let <player> slap you <range[1-5]> times."
         "Let <player> eat you out. "
+        "Let <player> eat you out. "
     ]
 }
