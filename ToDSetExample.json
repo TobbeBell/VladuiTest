@@ -1,7 +1,7 @@
 {
-    "DeckName": "Example Set",
+    "DeckName": "Vladuibois",
 
-    "DeckBy": "Lastation Community",
+    "DeckBy": "Vladuiboiv",
 
     "Truths": [
         "What is your favorite VRC game Map?",
@@ -12,8 +12,6 @@
     ],
     "Dares": [
         "Let <player> slap you <range[1-5]> times."
-        "Let <player> eat you <range[1-5]> times."
-        
-     
+        "Let <player> slap you <range[1-5]> times
     ]
 }
