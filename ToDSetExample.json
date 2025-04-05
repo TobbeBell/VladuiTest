@@ -11,9 +11,6 @@
         "<local>, who do you like here the most?"
     ],
     "Dares": [
-        "Mute yourself until next turn.",
-        "Sit next to <player>.",
-        "Eat <range[1-10]> goldfish.",
         "Let <player> slap you <range[1-5]> times."
         "Let <player> eat you <range[1-5]> times."
         
