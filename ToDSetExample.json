@@ -11,7 +11,7 @@
         "<local>, who do you like here the most?"
     ],
     "Dares": [
-        "Let <player> slap you <range[1-5]> times."
+        "Let <player> slap 1you <range[1-5]> times."
         "Let <player> eat you <range[1-5]> times."
         
      
